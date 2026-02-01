@@ -19,3 +19,4 @@ The line was added for testing the connection.
 >>>>>>> 6eaf244 (Add practice line to README)
 
 Test line 2.
+Temporary line for restore test.
