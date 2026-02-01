@@ -18,3 +18,4 @@ This project is used to practice Git basics.
 The line was added for testing the connection.
 >>>>>>> 6eaf244 (Add practice line to README)
 
+Test line 2.
