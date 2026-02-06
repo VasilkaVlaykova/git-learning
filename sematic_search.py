@@ -31,7 +31,11 @@ for idx,score in ranked:
 
 labels = [f"doc {i}" for i in range(len(documents))]
 plt.figure()
+<<<<<<< HEAD
 plt.title("Semantic similarity scores vs query")
+=======
+plt.title("Sematic similarity scores vs query")
+>>>>>>> d8c7499ddd50e39bfb36ffa1332a3133a52bd29f
 plt.xlabel("Documents")
 plt.ylabel("Cosine similarity")
 plt.bar(labels, scores_list)
